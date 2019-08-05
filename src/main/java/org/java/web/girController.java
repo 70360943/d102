@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class girController {
    @GetMapping("init")
     public String init(){
-        return "holle...";
+        return "holle...8888";
     }
 
 
